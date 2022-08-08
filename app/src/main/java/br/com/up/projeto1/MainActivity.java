@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         listPhases.add("Comprar um café para o professor");
         listPhases.add("Chamar o prof para o churras");
         listPhases.add("Chamar o prof para comer pizza");
+        listPhases.add("Chamar o prof para andar de kart");
 
         buttonSelector = findViewById(R.id.button_selector);
         textViewTitle =  findViewById(R.id.text_title);
